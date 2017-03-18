@@ -1,0 +1,9 @@
+C:\Users\hexinx\Documents\Visual Studio 2015\Projects\ScripGen\ScriptGen\ScriptGen\bin\Release\ScriptGen.exe
+C:\Users\hexinx\Documents\Visual Studio 2015\Projects\ScripGen\ScriptGen\ScriptGen\bin\Release\ScriptGen.pdb
+C:\Users\hexinx\Documents\Visual Studio 2015\Projects\ScripGen\ScriptGen\ScriptGen\bin\Release\FastColoredTextBox.dll
+C:\Users\hexinx\Documents\Visual Studio 2015\Projects\ScripGen\ScriptGen\ScriptGen\obj\Release\ScriptGen.frm_Main.resources
+C:\Users\hexinx\Documents\Visual Studio 2015\Projects\ScripGen\ScriptGen\ScriptGen\obj\Release\ScriptGen.Properties.Resources.resources
+C:\Users\hexinx\Documents\Visual Studio 2015\Projects\ScripGen\ScriptGen\ScriptGen\obj\Release\ScriptGen.csproj.GenerateResource.Cache
+C:\Users\hexinx\Documents\Visual Studio 2015\Projects\ScripGen\ScriptGen\ScriptGen\obj\Release\ScriptGen.exe
+C:\Users\hexinx\Documents\Visual Studio 2015\Projects\ScripGen\ScriptGen\ScriptGen\obj\Release\ScriptGen.pdb
+C:\Users\hexinx\Documents\Visual Studio 2015\Projects\ScripGen\ScriptGen\ScriptGen\obj\Release\ScriptGen.csprojResolveAssemblyReference.cache

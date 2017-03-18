@@ -1,0 +1,8 @@
+C:\Users\hexinx\Documents\Visual Studio 2015\Projects\ScripGen\ScriptGen\ScriptGen\bin\Debug\ScriptGen.exe
+C:\Users\hexinx\Documents\Visual Studio 2015\Projects\ScripGen\ScriptGen\ScriptGen\bin\Debug\ScriptGen.pdb
+C:\Users\hexinx\Documents\Visual Studio 2015\Projects\ScripGen\ScriptGen\ScriptGen\obj\Debug\ScriptGen.csprojResolveAssemblyReference.cache
+C:\Users\hexinx\Documents\Visual Studio 2015\Projects\ScripGen\ScriptGen\ScriptGen\obj\Debug\ScriptGen.Properties.Resources.resources
+C:\Users\hexinx\Documents\Visual Studio 2015\Projects\ScripGen\ScriptGen\ScriptGen\obj\Debug\ScriptGen.csproj.GenerateResource.Cache
+C:\Users\hexinx\Documents\Visual Studio 2015\Projects\ScripGen\ScriptGen\ScriptGen\obj\Debug\ScriptGen.exe
+C:\Users\hexinx\Documents\Visual Studio 2015\Projects\ScripGen\ScriptGen\ScriptGen\obj\Debug\ScriptGen.pdb
+C:\Users\hexinx\Documents\Visual Studio 2015\Projects\ScripGen\ScriptGen\ScriptGen\obj\Debug\ScriptGen.frm_Main.resources
